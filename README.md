@@ -1,8 +1,8 @@
-# ☕ Java Programming Internship Projects
+# DecodeLabs Internship Projects
 
 This repository contains the Java projects completed during my **DecodeLabs Internship**. These projects focus on strengthening core Java concepts, Object-Oriented Programming (OOP), problem-solving, and exception handling.
 
-## 📌 Projects
+## Projects
 
 ### 1. Number Game
 A console-based guessing game where the computer generates a random number and the user has to guess it.
@@ -92,30 +92,30 @@ A console-based currency converter that converts amounts between different curre
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
-Java-Internship-Projects/
+decodelabs_tasks/
 │
 ├── Project-1-NumberGame/
-│   └── NumberGame.java
+│   └── task1.java
 │
 ├── Project-2-StudentGradeCalculator/
-│   └── StudentGradeCalculator.java
+│   └── task2.java
 │
 ├── Project-3-ATM-Interface/
 │   ├── ATM.java
 │   └── BankAccount.java
 │
 ├── Project-4-CurrencyConverter/
-│   └── CurrencyConverter.java
+│   └── task4.java
 │
 └── README.md
 ```
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 Through these projects, I gained practical experience in:
 
@@ -129,7 +129,7 @@ Through these projects, I gained practical experience in:
 
 ---
 
-# 🎯 Internship Skills Demonstrated
+# Internship Skills Demonstrated
 
 - Java Programming
 - OOP Concepts
@@ -141,7 +141,7 @@ Through these projects, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ahmad Raza
 
@@ -151,7 +151,7 @@ GitHub: https://github.com/dev-ahmadraza
 
 ---
 
-## ⭐ Acknowledgement
+## Acknowledgement
 
 These projects were completed as part of my **DecodeLabs Internship** to strengthen my understanding of Java fundamentals, Object-Oriented Programming, and real-world problem-solving through hands-on practice.
 
